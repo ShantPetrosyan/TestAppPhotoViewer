@@ -1,0 +1,45 @@
+*.iml
+.gradle
+/.idea
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android
+*.keystore
+*.DS_Store
+
+# Gradle
+build
+jacoco.exec
+
+# gh-pages
+doc/**
+_site/*
+_pages/*
+docs/**/*
+
+# Vim
+*.swp
+*.swo
+
+# sed
+*.bak
+
+# Intellij
+*.ipr
+*.iws
+.idea/**
+!.idea/codeStyleSettings.xml
+!.idea/inspectionProfiles
+!.idea/inspectionProfiles/Project_Default.xml
