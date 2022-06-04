@@ -17,10 +17,12 @@
         android:theme="@style/Theme.PhotoGallery">
         <activity
             android:name=".detail.ZoomInZoomOutActivity"
+            android:configChanges="screenSize"
             android:exported="false" />
         <activity
             android:name=".mainpage.GalleryActivity"
             android:exported="true"
+            android:configChanges="screenSize"
             android:label="@string/title_activity_gallery"
             android:theme="@style/Theme.PhotoGallery.NoActionBar">
             <intent-filter>
