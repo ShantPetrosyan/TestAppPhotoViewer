@@ -5,6 +5,20 @@
       <map>
         <entry key="..\:/Users/shantp/AndroidStudioProjects/PhotoGallery/presentation/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/shantp/AndroidStudioProjects/PhotoGallery/presentation/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/drawable-anydpi/ic_action_save.xml" value="0.1155" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/drawable-anydpi/ic_action_share.xml" value="0.1155" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/drawable-v24/ripple_effect.xml" value="0.174" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/drawable-v24/scrim.xml" value="0.174" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/activity_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/activity_zoom_in_zoom_out.xml" value="0.25" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/content_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/fragment_second.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/row_photo.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/row_progress.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/menu-v26/menu_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shantp/Documents/TestAppPhotoViewer/presentation/src/main/res/menu/menu_main.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
